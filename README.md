@@ -9,7 +9,7 @@ Perfect for:
 
 ## Quick Start
 1. Mixo V1.0.0 Installer [Download](https://github.com/ATMFD/Mixo/raw/refs/heads/main/Mixo%20V1.0.0%20Installer.exe)
-2. Adjust sliders – changes revert when you close Mixo
+2. Adjust sliders - changes revert when you close Mixo
 
 ## Why Mixo?
 Windows saves audio changes permanently. Mixo doesn't. Close it = settings go back to what they were.
