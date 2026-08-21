@@ -8,7 +8,7 @@ Perfect for:
 - 🎧 Anyone who forgets to revert their audio settings
 
 ## Quick Start
-1. Mixo V1.0.1 Installer [Download](https://github.com/ATMFD/Mixo/raw/refs/heads/main/Mixo%20V1.0.2%20Installer.exe)
+1. Mixo V1.0.2 Installer [Download](https://github.com/ATMFD/Mixo/raw/refs/heads/main/Mixo%20V1.0.2%20Installer.exe)
 2. Adjust sliders - changes revert when you close Mixo
 
 ## Why Mixo?
